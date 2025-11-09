@@ -8,12 +8,12 @@ It’s designed to demonstrate *core Python programming concepts* like functions
 ---
 
 2 - Features
-- ✅ Perform arithmetic operations: `+`, `-`, `*`, `/`, `%`, `**`
-- ✅ Supports two-number calculations (e.g., `2 + 3`, `5 * 8`)
-- ✅ Maintains a *calculation history* in a `history.txt` file
-- ✅ View or clear history anytime
-- ✅ Handles invalid input and division-by-zero errors gracefully
-- ✅ Interactive command-line interface for continuous use
+-  Perform arithmetic operations: `+`, `-`, `*`, `/`, `%`, `**`
+-  Supports two-number calculations (e.g., `2 + 3`, `5 * 8`)
+-  Maintains a *calculation history* in a `history.txt` file
+-  View or clear history anytime
+-  Handles invalid input and division-by-zero errors gracefully
+-  Interactive command-line interface for continuous use
 
 ---
 
